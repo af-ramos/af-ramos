@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-Hi there 👋
+"Hi there 👋"
 ```
 
 <div align="center">
