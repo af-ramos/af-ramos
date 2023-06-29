@@ -1,4 +1,4 @@
-### Hi there 👋
+# 🐱‍💻 <samp> Arthur Francisco Ramos </samp>
 
 <!--
 **af-ramos/af-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+  Hi there 👋
+```
 
 <div align="center">
 	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=af-ramos&layout=compact&theme=dark"/>
