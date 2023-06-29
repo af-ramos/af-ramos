@@ -1,4 +1,4 @@
-# 🐱‍💻 <samp> Arthur Francisco Ramos </samp>
+# <samp> Arthur Francisco Ramos </samp>
 
 <!--
 **af-ramos/af-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
