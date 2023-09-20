@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-"Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os
-tipos ⚡"
-
+"Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡"
 "Atualmente graduando em Ciência da Computação na Unesp e desenvolvedor na HCosta 💬"
+"Desenvolvendo um aplicativo para identificação biométrica usando Vision Transformer e Flutter 👀" 
 ```
 
 <div align="center">
