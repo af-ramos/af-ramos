@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-"Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡
-Atualmente graduando em Ciência da Computação na Unesp e desenvolvedor na HCosta 💬"
+"Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡"
+
+"Atualmente graduando em Ciência da Computação na Unesp e desenvolvedor na HCosta 💬"
 ```
 
 <div align="center">
