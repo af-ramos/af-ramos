@@ -1,24 +1,9 @@
 # <samp> 😼 Arthur Francisco Ramos </samp>
 
-<!--
-**af-ramos/af-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ```javascript
 "Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡"
-"Atualmente graduando em Ciência da Computação na Unesp e desenvolvedor na HCosta 💬"
-"Desenvolvendo um aplicativo para identificação biométrica usando Vision Transformer e Flutter 👀" 
+"Atualmente graduado em Ciência da Computação e cursando o mestrado (PPGC) na Unesp, desenvolvedor na HCosta 💬"
+"Desenvolvi um aplicativo para identificação biométrica usando Vision Transformer e Flutter como TCC da graduação 👀" 
 ```
 
 <div align="center">
