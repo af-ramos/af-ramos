@@ -1,7 +1,7 @@
 # <samp> 😼 Arthur Francisco Ramos </samp>
 
 ```javascript
-"Desde sempre apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡"
+"Apaixonado por computação, sempre busco aprender novas linguagens e desenvolver projetos de todos os tipos ⚡"
 "Atualmente bacharel em Ciência da Computação e cursando o mestrado (PPGC) na linha de Visão Computacional na Unesp 🎓"
 "Desenvolvedor PHP na HCosta, no setor de cobrança bancária 💻"
 "Desenvolvi um aplicativo para identificação biométrica usando Vision Transformer e Flutter como TCC da graduação 👀" 
