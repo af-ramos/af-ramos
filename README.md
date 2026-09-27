@@ -6,9 +6,9 @@
 
 ### 🎓 Background
 
+- M.Sc. student in **Computer Vision** — **Unesp, São José do Rio Preto**
 - B.Sc. in Computer Science — **Unesp, Bauru**
-- M.Sc. student in **Computer Vision** — Unesp
-- IT Technician — **Etec Bauru**
+- IT Technician — **Etec, Bauru**
 
 ---
 
@@ -20,11 +20,11 @@ Currently working as a **PHP Developer at HCosta**, focusing on the banking coll
 
 ### 🚀 Skills & Interests
 
-- **Main stack:** PHP · Laravel · MySQL
+- **Main stack:** PHP · Laravel · MySQL · MongoDB
 - **Other languages:** Java · Python · Pascal · C
 - **Web:** HTML · CSS · JavaScript
 - **Research:** Computer Vision · Biometric Identification · Vision Transformers
-- **Mobile:** Flutter
+- **Mobile:** Dart · Flutter
 
 <div align="center">
   <a href="https://github.com/af-ramos">
