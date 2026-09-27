@@ -26,12 +26,6 @@ Currently working as a **PHP Developer at HCosta**, focusing on the banking coll
 - **Research:** Computer Vision · Biometric Identification · Vision Transformers
 - **Mobile:** Dart · Flutter
 
-<div align="center">
-  <a href="https://github.com/af-ramos">
-    <img height=200 src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=af-ramos&layout=compact&card_width=400" />
-  </a>
-</div>
-
 ---
 
 ### 🏆 Notable Project
